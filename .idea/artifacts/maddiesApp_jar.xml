@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="maddiesApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/maddiesApp_jar</output-path>
+    <root id="archive" name="maddiesApp.jar">
+      <element id="module-output" name="maddiesApp" />
+      <element id="extracted-dir" path="$USER_HOME$/json/json-20250517.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
